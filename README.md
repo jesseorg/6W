@@ -1,3 +1,12 @@
+20181113
+jesse
+
+This is a rebuild of the 2017-6 6W AR Firefox. 
+It was rebuilt 2018-7 with nextlevel and javascript injection to support 3d websites in AR. This version should compile for iOS 10. 微信 is supported by the javascript.
+
+The rest is normal Firefox. 
+
+///
 
 
 
@@ -106,3 +115,4 @@ It is possible to use [App Code](https://www.jetbrains.com/objc/download/) inste
 * Each commit should have a single clear purpose. If a commit contains multiple unrelated changes, those changes should be split into separate commits.
 * If a commit requires another commit to build properly, those commits should be squashed.
 * Follow-up commits for any review comments should be squashed. Do not include "Fixed PR comments", merge commits, or other "temporary" commits in pull requests.
+# 6W
