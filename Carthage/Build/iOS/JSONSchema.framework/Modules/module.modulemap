@@ -1,0 +1,10 @@
+framework module JSONSchema {
+  umbrella header "JSONSchema.h"
+
+  export *
+  module * { export * }
+}
+
+module JSONSchema.Swift {
+    header "JSONSchema-Swift.h"
+}

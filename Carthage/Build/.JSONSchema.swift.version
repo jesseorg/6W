@@ -1,0 +1,9 @@
+{
+  "commitish" : "1c052b83baa8c497e12cde6a8afca0f54574612f",
+  "iOS" : [
+    {
+      "hash" : "2240900de997d35e3c9cd63d83363781194889afe81996f1a512dfcf9a2b83f7",
+      "name" : "JSONSchema"
+    }
+  ]
+}

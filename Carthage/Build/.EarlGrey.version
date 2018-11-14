@@ -1,0 +1,9 @@
+{
+  "commitish" : "1.9.0",
+  "iOS" : [
+    {
+      "hash" : "659e9d0c0c7818b03a8e4ef54141d99c5cf91c0543ed985ca96a097e8309aead",
+      "name" : "EarlGrey"
+    }
+  ]
+}

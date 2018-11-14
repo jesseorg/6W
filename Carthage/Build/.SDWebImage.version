@@ -1,0 +1,9 @@
+{
+  "commitish" : "3.7.4",
+  "iOS" : [
+    {
+      "hash" : "dab3488bf2752d86e584aaf0b4ce1e10100c8928d5fc7cb64dafe1436a272aff",
+      "name" : "WebImage"
+    }
+  ]
+}

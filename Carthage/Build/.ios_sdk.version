@@ -1,0 +1,9 @@
+{
+  "commitish" : "v4.10.2",
+  "iOS" : [
+    {
+      "hash" : "2d8fef4e8dd09e7df5560f8f1d8f04f9be2cf73e29b5de75619a8fe054e510f7",
+      "name" : "AdjustSdk"
+    }
+  ]
+}

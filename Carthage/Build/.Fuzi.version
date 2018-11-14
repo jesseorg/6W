@@ -1,0 +1,9 @@
+{
+  "commitish" : "1.0.1",
+  "iOS" : [
+    {
+      "hash" : "8f405cffe5b64c31bb113f73192293c5f9b98dc0b85eb368c84aef31af1fd545",
+      "name" : "Fuzi"
+    }
+  ]
+}
